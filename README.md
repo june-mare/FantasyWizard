@@ -50,18 +50,22 @@ Escキーを入力
 - カリングを作成し画面中のオブジェクトの数とすべてのオブジェクトの数を把握できるので、何が原因で重くなっているのかがわかりやすいです。
 
 ## イメージ画像
+
 ### デバッグ
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Debug.png" alt="Debug" title="Debug" width="384" height="256">
+
 ### ライティング
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Color.png" alt="Color" title="Color" width="384" height="256">
+
 ### ブルーム
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Befor.png" alt="Befor" title="Befor" width="384" height="256">
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/After.png" alt="After" title="After" width="384" height="256">
+
 ### ブラー
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Shader.png" alt="Shader" title="Shader" width="384" height="256">
+
 ### 会話　
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Talk.png" alt="Talk" title="Talk" width="384" height="256">
-
 
 ## 自分がどのように頑張ったか
 アニメーションを使ったゲームを作るために、授業で習っている範囲ではなくAssimpを使ってmixamoからモデルやアニメーションを取り入れられるように、調べる力や、調べた結果いろんなやり方があった時にどのようにしたら自分がやりたいようにできるかを検証して作成できたところが頑張った点です。
