@@ -49,7 +49,14 @@ Escキーを入力
 - デバッグでの変更結果を別ファイルに保存しているので、入力の設定やキャラクターのステータス変更などをしやすくしました。
 - カリングを作成し画面中のオブジェクトの数とすべてのオブジェクトの数を把握できるので、何が原因で重くなっているのかがわかりやすいです。
 
+## イメージ画像
+# デバッグ操作
 <img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Debug.png" alt="Debug" title="Debug" width="384" height="256">
+# 光の操作
+<img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Color.png" alt="Color" title="Color" width="384" height="256">
+# ブルームの操作
+<img src="https://github.com/june-mare/FantasyWizard/blob/master/ImageFile/Befor.png" alt="Befor" title="Befor" width="384" height="256">
+
 
 ## 自分がどのように頑張ったか
 アニメーションを使ったゲームを作るために、授業で習っている範囲ではなくAssimpを使ってmixamoからモデルやアニメーションを取り入れられるように、調べる力や、調べた結果いろんなやり方があった時にどのようにしたら自分がやりたいようにできるかを検証して作成できたところが頑張った点です。
